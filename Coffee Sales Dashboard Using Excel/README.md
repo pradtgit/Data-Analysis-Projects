@@ -2,7 +2,7 @@
 
 ## Dashboard Preview
 
-![Coffee Sales Dashboard](https://github.com/user-attachments/assets/b333ac16-ddc7-4f5e-8c59-88a4ddeca57d)
+![Coffee Sales Dashboard](https://github.com/user-attachments/assets/ed64bf99-1ee5-4a5b-9a2a-95ab07ce3078)
 
 ## Project Overview
 
