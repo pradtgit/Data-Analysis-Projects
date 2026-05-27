@@ -6,8 +6,9 @@ This project focuses on creating a SQL Server data warehouse using raw CRM and E
 
 The project follows the Bronze, Silver and Gold layer approach. The Bronze layer keeps the raw source data, the Silver layer stores the cleaned and transformed data and the Gold layer contains the final Star Schema views for analyzing customers, products and sales.
 
-<img width="767" height="451" alt="image" src="https://github.com/user-attachments/assets/1ea11cb4-60a0-405d-b237-3dd0760754af" />
-
+<p align="center">
+  <img width="767" height="451" alt="SQL Data Warehouse Architecture" src="https://github.com/user-attachments/assets/1ea11cb4-60a0-405d-b237-3dd0760754af" />
+</p>
 
 ## Objective
 
