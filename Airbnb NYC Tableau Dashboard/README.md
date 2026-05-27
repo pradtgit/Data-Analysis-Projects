@@ -14,8 +14,6 @@ You can view the published Tableau dashboard here:
 
 ## Dashboard Preview
 
-## Dashboard Preview
-
 <img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/d369128f-941e-47ba-8059-833f38bd6367" />
 
 
