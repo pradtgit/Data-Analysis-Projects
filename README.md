@@ -1,8 +1,8 @@
 # Data-Analysis-Projects
 
-This repository contains the data analysis projects I worked on using SQL, Tableau and Excel. Through these projects, I practiced working with raw data, cleaning and transforming datasets, writing SQL queries, building dashboards and creating business insights from data.
+This repository contains the data analysis and data engineering projects I worked on using SQL, Tableau, Excel and Microsoft Azure. Through these projects, I practiced working with raw data, cleaning and transforming datasets, writing SQL queries, building dashboards, creating business insights from data and building a cloud-based data engineering pipeline.
 
-These projects strengthen my understanding of data analysis, data warehousing, business intelligence and reporting workflows.
+These projects strengthen my understanding of data analysis, data warehousing, business intelligence, reporting workflows, data engineering, cloud ETL and end-to-end data pipeline development.
 
 ---
 
@@ -75,7 +75,39 @@ I also learned how SQL can be used not only for querying data, but also for busi
 
 ---
 
-### 3. Airbnb NYC Tableau Dashboard
+### 3. Azure Data Engineering Pipeline for Olympics Data
+In this project, I worked on building an end-to-end cloud data engineering pipeline on Microsoft Azure using Tokyo Olympics data. I ingested raw CSV files from GitHub, stored them in Azure Data Lake Storage Gen2, transformed the data using Azure Databricks and PySpark and performed SQL-based analysis using Azure Synapse Analytics.
+
+This project helped me understand how different Azure services work together to move, store, transform and analyze data in a structured cloud data pipeline.
+
+
+What I worked on
+
+Created Azure Data Factory pipelines to ingest raw CSV files from GitHub
+Stored raw data in Azure Data Lake Storage Gen2
+Organized data into raw and transformed storage layers
+Used Azure Databricks and PySpark to clean and transform the data
+Saved transformed data back into Azure Data Lake Storage Gen2
+Connected Azure Synapse Analytics to the transformed data
+Wrote SQL queries to analyze the Tokyo Olympics dataset
+Built an end-to-end ETL workflow using Azure cloud services
+
+What I learned
+
+How to build an end-to-end Azure data engineering workflow
+How to create data ingestion pipelines using Azure Data Factory
+How to store raw and transformed data in Azure Data Lake Storage Gen2
+How to use PySpark in Azure Databricks for data transformation
+How to query transformed data using Azure Synapse Analytics
+How cloud services work together in a scalable data pipeline
+
+Tools & Technologies
+
+[Azure Data Factory | Azure Data Lake Storage Gen2 | Azure Databricks | PySpark | Apache Spark | Azure Synapse Analytics | SQL | Python | GitHub | CSV Files | ETL | Data Engineering | Cloud Data Pipeline]
+
+---
+
+### 4. Airbnb NYC Tableau Dashboard
 
 In this project, I worked on building an interactive Tableau dashboard to analyze Airbnb listings across New York City. The dashboard helps users understand Airbnb activity across different neighborhood groups such as Manhattan, Brooklyn, Queens, Bronx and Staten Island.
 
@@ -108,7 +140,7 @@ This project helped me learn how to present data visually and make dashboards in
 
 ---
 
-### 4. Coffee Sales Dashboard Using Excel
+### 5. Coffee Sales Dashboard Using Excel
 
 In this project, I worked on creating an Excel dashboard to analyze coffee sales data. The dataset included order details, customer information and product information.
 
@@ -151,6 +183,13 @@ Through these projects, I practiced:
 * SQL Querying
 * Data Warehousing
 * ETL Development
+* Cloud Data Engineering
+* Azure Data Factory Pipeline Development
+* Azure Data Lake Storage Gen2
+* Azure Databricks
+* PySpark and Apache Spark Transformations
+* Azure Synapse Analytics
+* Raw and Transformed Data Layering
 * Star Schema Modeling
 * KPI Calculation
 * Business Analysis
